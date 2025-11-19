@@ -1,0 +1,17 @@
+
+<svg xmlns='http://www.w3.org/2000/svg' width='280' height='64' viewBox='0 0 280 64' role='img' aria-label='MeloTech Solutions'>
+  <defs>
+    <style>
+      .t{fill:#0E6BA8;font-family:Inter,Arial,sans-serif;font-weight:700;letter-spacing:0.5px}
+      .s{fill:#FFFFFF;font-size:11px;font-family:Inter,Arial,sans-serif;opacity:.8}
+    </style>
+  </defs>
+  <g transform='translate(0,4)'>
+    <path d='M8 28 L28 12 L48 28 L48 52 L12 52 L12 28 Z' fill='none' stroke='#0E6BA8' stroke-width='3' stroke-linejoin='round'/>
+    <circle cx='18' cy='36' r='3' fill='#14B8A6'/>
+    <circle cx='38' cy='36' r='3' fill='#14B8A6'/>
+    <path d='M18 36 L18 30 L28 24 L38 30 L38 36' fill='none' stroke='#14B8A6' stroke-width='3' stroke-linecap='round'/>
+  </g>
+  <text x='64' y='28' font-size='24' class='t'>MELOTECH</text>
+  <text x='66' y='44' class='s'>SOLUTIONS</text>
+</svg>
